@@ -1,0 +1,40 @@
+{
+  "rows": 532,
+  "agencies": 20,
+  "policy_areas": 125,
+  "status_counts_raw": {
+    "Not Initiated": 236,
+    "Completed": 150,
+    "Initiated/Attempted": 98,
+    "Proposed": 48
+  },
+  "status_counts_bucket": {
+    "Not initiated": 236,
+    "Completed": 150,
+    "In progress": 146
+  },
+  "agencies_list": [
+    "Federal Communications Commission",
+    "Federal Election Commission",
+    "Federal Trade Commission",
+    "U.S. Department of Agriculture",
+    "U.S. Department of Commerce",
+    "U.S. Department of Education",
+    "U.S. Department of Energy",
+    "U.S. Department of Health and Human Services",
+    "U.S. Department of Housing and Urban Development",
+    "U.S. Department of Justice",
+    "U.S. Department of Labor",
+    "U.S. Department of Transportation",
+    "U.S. Department of Veterans Affairs",
+    "U.S. Department of the Interior",
+    "U.S. Department of the Treasury",
+    "U.S. Environmental Protection Agency",
+    "U.S. Federal Reserve",
+    "U.S. Financial Regulatory Agencies",
+    "U.S. Office of Management and Budget",
+    "U.S. Small Business Administration"
+  ],
+  "updated_min": "2026-02-11",
+  "updated_max": "2026-02-11"
+}
